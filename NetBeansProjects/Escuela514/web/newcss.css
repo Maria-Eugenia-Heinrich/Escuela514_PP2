@@ -1,0 +1,36 @@
+.titulo {
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+}
+
+.selecsexo {
+    word-wrap: normal;
+    width: 150px;
+}
+    
+
+.formulario{
+    display: flex;
+    margin: 0 auto;    
+    color: #666666;
+    font-family: Arial;    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    width:636px;
+    height:45px;
+    background:#daeaea;
+    border:2px solid #f6f6f6;
+    padding: px;
+    margin-top:5px;
+    font-size:10px;
+    color:#333333;
+}
+.elementform{    
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+}
