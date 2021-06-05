@@ -70,15 +70,10 @@
        <div class="form-check">
        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
        <label class="form-check-label" for="flexCheckDefault">
-        Docente
+        En comedor
       </label>
       </div>
-      <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-      <label class="form-check-label" for="flexCheckDefault">
-       Profesional
-      </label>
-      </div> 
+      
  <form class="row g-3">
       <div class="col-auto">
       <label for="staticEmail2" class="visually-hidden">Direccion</label>
