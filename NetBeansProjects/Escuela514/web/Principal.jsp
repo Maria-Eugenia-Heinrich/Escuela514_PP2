@@ -56,7 +56,7 @@
     <a class="nav-link" href="Profesores.jsp">Profesores</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Personal</a>
+    <a class="nav-link" href="personal.jsp">Personal</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="#">Consultas</a>
