@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link href="newcss.css" rel="stylesheet">
+     <%--   <link href="newcss.css" rel="stylesheet"> --%>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
          <link href="css/bootstrap.min.css" rel="stylesheet"> 
