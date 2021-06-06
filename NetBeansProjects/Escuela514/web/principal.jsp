@@ -50,10 +50,10 @@
 </form>
    <ul class="nav nav-tabs">
     <li class="nav-item">
-    <a class="nav-link" href="index.jsp">Alumnos</a>
+    <a class="nav-link" href="alumnos.jsp">Alumnos</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="Profesores.jsp">Profesores</a>
+    <a class="nav-link" href="profesores.jsp">Profesores</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="personal.jsp">Personal</a>
