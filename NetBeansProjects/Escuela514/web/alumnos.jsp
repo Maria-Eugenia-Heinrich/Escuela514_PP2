@@ -414,7 +414,7 @@
 
                 </div>
                 <button type="button" class="btn btn-link">
-                    <a class="btn btn-link" href="Principal.jsp">Volver</a>
+                    <a class="btn btn-link" href="principal.jsp">Volver</a>
                 </button>    
                 </Form>
 
