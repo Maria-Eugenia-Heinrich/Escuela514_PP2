@@ -1,7 +1,7 @@
 <%-- 
     Document   : personal
     Created on : 05/06/2021, 11:39:12
-    Author     : Skylab
+    Author     : Guille
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -59,7 +59,7 @@
        </div>
        <div class="col-auto">
        <label for="staticText" class="visually-hidden">Fecha de Nacimiento</label>
-       <input type="date" class="form-control" id="staticText" placeholder="dd//mm//aa">
+       <input style="width: 200px" type="date" class="form-control" id="staticText" placeholder="dd/mm/aaaa">
        </div>
  </form>    
        <label for="validationServer04" class="form-label">Sexo</label>
